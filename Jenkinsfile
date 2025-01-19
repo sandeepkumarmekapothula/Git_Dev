@@ -20,10 +20,10 @@ pipeline {
         //     }
         // }
         
-        stage('Deploy') {
-            steps {
-                echo 'Stage : Deploying to Server ......'
-            }
-        }
+        // stage('Deploy') {
+        //     steps {
+        //         echo 'Stage : Deploying to Server ......'
+        //     }
+        // }
     }
 }
